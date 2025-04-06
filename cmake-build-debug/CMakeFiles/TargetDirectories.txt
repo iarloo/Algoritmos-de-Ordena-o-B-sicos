@@ -1,0 +1,3 @@
+/home/iarlo/Desktop/Lista_ED1/Algoritmos_Ordenacao_Basicos/cmake-build-debug/CMakeFiles/Algoritmos_Ordenacao_Basicos.dir
+/home/iarlo/Desktop/Lista_ED1/Algoritmos_Ordenacao_Basicos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iarlo/Desktop/Lista_ED1/Algoritmos_Ordenacao_Basicos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
